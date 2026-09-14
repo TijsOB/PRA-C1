@@ -35,6 +35,45 @@
 
 
 
+<section class="sustainability">
+  <div class="container">
+    <div class="matters-head">
+      <div>
+        <span class="eyebrow">Blok A</span>
+        <h2>De 3 hoofdvakken die je hebt:</h2>
+      </div>
+    </div>
+
+    <div class="matters-grid">
+
+
+      <article class="matter">
+        <div class="matter-front">
+          <h3>NATIVE</h3>
+          <p>In dit vak leer je over het maken van andere projecten met gebruik van Python en C#.</p>
+        </div>
+      </article>
+
+      <article class="matter">
+        <div class="matter-front">
+          <h3>PRA</h3>
+          <p>Je werkt in aan langere project, Dit doe je ook meestal in een groep.</p>
+        </div>
+      </article>
+
+      <article class="matter">
+        <div class="matter-front">
+          <h3>WEB</h3>
+          <p>Je leert hier over het maken van Websites, Dit doe je in de talen: HTML en CSS. </p>
+        </div>
+      </article>
+
+    </div>
+    <p class="p-matter">Verder heb je nog PRO, Hier leer je over het gebruik van GIT/GITHUB. Je hebt verder ook nog Mentoruur, Nederlands en Rekenen.</p>
+  </div>
+</section>
+
+
 </body>
 </html>
 
