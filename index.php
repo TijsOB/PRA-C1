@@ -73,6 +73,19 @@
   </div>
 </section>
 
+<section class="matters">
+  <div class="container">
+    <span class="eyebrow">Huiswerk</span>
+    <h2>Wat Kan Je Verwachten</h2>
+    <div class="sustainability-cols">
+      <p>De Huiswerk die je krijgt is een normale hoeveelheid. Als je je werk doet tijdens de les, ga je niet hoeven thuis. </p>
+      <p>Bij niet afgemaakte huiswerk, toetsen of projecten, kan je de kans krijgen om het in te halen of af te maken. Dit kan tijdens CodeLab of richting het eind van het blok in de bufferweek.</p>
+    </div>
+  </div>
+</section>
+
+
+
 
 </body>
 </html>
