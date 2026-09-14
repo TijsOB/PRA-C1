@@ -86,6 +86,22 @@
 
 
 
+<footer>
+  <div class="container footer-grid">
+    <div>
+      <div class="logo"><span class="logo-mark"></span> CURIO</div>
+      <p>Gemaakt door Tijs Ossenblok</p>
+    </div>
+    <div>
+      <h4>Locatie</h4>
+      <p>Terheijdenseweg 350<br>4826 AA Breda</p>
+    </div>
+
+  </div>
+  <div class="footer-bottom container">
+    © 2026 Curio
+  </div>
+</footer>
 
 </body>
 </html>
