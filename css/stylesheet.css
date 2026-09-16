@@ -5,7 +5,7 @@
       radial-gradient(ellipse at 30% 40%, #cee4c0 0%, transparent 50%),
       radial-gradient(ellipse at 70% 60%, #8dad90 0%, transparent 55%),
       linear-gradient(135deg, #b9caa8 0%, #e3fca9 100%);
-    --text: #f7f8a6;
+    --text: #dddf84;
     --muted: #ffffff;
     --primary: #ccce52;
     --primary-light: #5a7a52;
@@ -245,4 +245,16 @@
   {
     margin-left: 10px;
     margin-bottom: 6px;
+  }
+
+  .Fix {
+    color: var(--accent);
+  }
+
+  .eyebrowFix {
+    font-size: 16px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--primary);
+    font-weight: bold;
   }

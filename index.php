@@ -40,7 +40,7 @@
     <div class="matters-head">
       <div>
         <span class="eyebrow">Blok A</span>
-        <h2>De 3 hoofdvakken die je hebt:</h2>
+        <h2 class="Fix">De 3 hoofdvakken die je hebt:</h2>
       </div>
     </div>
 
@@ -75,7 +75,7 @@
 
 <section class="matters">
   <div class="container">
-    <span class="eyebrow">Huiswerk</span>
+    <span class="eyebrowFix">Huiswerk</span>
     <h2>Wat Kan Je Verwachten</h2>
     <div class="sustainability-cols">
     <p>In Blok A krijg je wat huiswerk van bijna elk vak, zodat je het leren van de verschillende vakken ook thuis kan uitbreiden. Echter is het niet dat je te veel huiswerk krijgt, het meeste van het huiswerk is af te krijgen in de les dus er valt dan minder thuis te doen. </p>
