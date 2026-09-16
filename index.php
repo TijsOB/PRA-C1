@@ -50,21 +50,21 @@
       <article class="matter">
         <div class="matter-front">
           <h3>NATIVE</h3>
-          <p>In dit vak leer je over het maken van andere projecten met gebruik van Python en C#.</p>
+          <p>In dit vak leer je over het gebruik maken van de programmeertaal: Python. Aan het begin van Blok A leer je over MicroBit, Dit is een blok Code programma, je leert hier echt de basics van coderen. Daarna begin je met het leren van PYTHON. Waarom Python? Python is een erg brede programmeertaal, je kan er grote webapplicaties mee maken, het aansturen van machines maar ook de simpelste programmatjes.</p>
         </div>
       </article>
 
       <article class="matter">
         <div class="matter-front">
           <h3>PRA</h3>
-          <p>Je werkt in aan langere project, Dit doe je ook meestal in een groep.</p>
+          <p>In dit vak werk je aan langere projecten, dit doe je meestal in een groep. In de eerste opdracht gebruik je nog Micro Bit, de blok code programma. Er na begin je met het maken van WEB applicaties, Python en het lezen van Databestanden. </p>
         </div>
       </article>
 
       <article class="matter">
         <div class="matter-front">
           <h3>WEB</h3>
-          <p>Je leert hier over het maken van Websites, Dit doe je in de talen: HTML en CSS. </p>
+          <p>In dit vak leer je over het maken van Websites, dit doe je in de programmeertalen: HTML, CSS en later nog in Javascript. Je begint meestal met het bouwen van een portfolio Website om het verschilt te zien van het begin en nadat je meer van de talen geleerd heb. Je leert hoe je gebruik maakt van verschillende manieren om iets te doen. Daarna leer je over het gebruik maken van Javascript, bijvoorbeeld een “showAlert” prompt, dit laat een pop-up komen in de browser. </p>
         </div>
       </article>
 
@@ -78,8 +78,8 @@
     <span class="eyebrow">Huiswerk</span>
     <h2>Wat Kan Je Verwachten</h2>
     <div class="sustainability-cols">
-      <p>De Huiswerk die je krijgt is een normale hoeveelheid. Als je je werk doet tijdens de les, ga je niet hoeven thuis. </p>
-      <p>Bij niet afgemaakte huiswerk, toetsen of projecten, kan je de kans krijgen om het in te halen of af te maken. Dit kan tijdens CodeLab of richting het eind van het blok in de bufferweek.</p>
+    <p>In Blok A krijg je wat huiswerk van bijna elk vak, zodat je het leren van de verschillende vakken ook thuis kan uitbreiden. Echter is het niet dat je te veel huiswerk krijgt, het meeste van het huiswerk is af te krijgen in de les dus er valt dan minder thuis te doen. </p>
+    <p>Meeste opdrachten hebben een deadline, dit is zodat het oprecht gemaakt word en dat er geen consequenties zijn als het niet gebeurt. Echter bij een te laten inlevering kan het huiswerk, toetsen of projecten in gehaald kunnen worden in het vak ‘CODELAB’ of aan het einde van het blok heb je een Bufferweek waarin je het kan afmaken, inleveren of herkansen.</p>
     </div>
   </div>
 </section>
